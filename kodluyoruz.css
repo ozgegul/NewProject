@@ -1,0 +1,33 @@
+/*** Details of the Project ***/
+
+h2{
+    color: rgb(110, 58, 58);
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;  
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    list-style-position: inside;
+}
+
+a{
+    text-align: center;
+    color: rgb(161, 138, 109);
+}
+
+
+h3{
+    color: rgba(138, 122, 99, 0.678);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+  }
+
